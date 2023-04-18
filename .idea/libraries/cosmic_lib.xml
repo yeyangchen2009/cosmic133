@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cosmic-lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../cosmic133-server/cosmic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../cosmic133-server/cosmic" recursive="true" />
+  </library>
+</component>
